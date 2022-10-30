@@ -1,0 +1,14 @@
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\bin\Debug\Database1.mdf
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\bin\Debug\Database1_log.ldf
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\bin\Debug\HowToConnect.exe.config
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\bin\Debug\HowToConnect.exe
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\bin\Debug\HowToConnect.pdb
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.Form1.resources
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.Properties.Resources.resources
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.exe
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.pdb
+D:\MenuObject\LTTQ\HowToConnect\HowToConnect\obj\Debug\HowToConnect.csproj.ResolveComReference.cache
